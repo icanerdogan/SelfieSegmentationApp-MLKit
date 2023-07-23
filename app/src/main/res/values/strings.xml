@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Selfie Segmentation App</string>
+    <string name="change_mode">Change Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="segment_selfie">Segment Selfie</string>
+    <string name="button_camera">Button Camera</string>
+    <string name="button_gallery">Button Gallery</string>
+    <string name="selfie_image">Selfie Image</string>
+    <string name="background_mode">Background Mode</string>
+    <string name="foreground_mode">Foreground Mode</string>
+    <string name="download_button">Download Button</string>
+    <string name="backup_button">Backup Button</string>
+</resources>
