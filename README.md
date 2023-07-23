@@ -17,6 +17,12 @@
   <li>Raw size mask support The segmentation mask output is the same size as the input image by default. The API also supports an option that produces a mask with the model output size instead (e.g. 256x256). This option makes it easier to apply customized rescaling logic or reduces latency if rescaling to the input image size is not needed for your use case.</li>
 </ul>
 
+<h2> Pose Detection App Preview </h2>
+
+Main Screen        |  Segment       
+:-------------------------:|:-------------------------:|
+![](https://github.com/icanerdogan/SelfieSegmentationApp-MLKit/assets/52867508/dfca1f22-f891-4837-9841-0185ae7f3188) | ![](https://github.com/icanerdogan/SelfieSegmentationApp-MLKit/assets/52867508/6d1d17a7-ccb8-4f3d-aa4a-e9ee64936eeb)
+
 ## License
 
 ````
