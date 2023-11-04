@@ -17,7 +17,7 @@
   <li>Raw size mask support The segmentation mask output is the same size as the input image by default. The API also supports an option that produces a mask with the model output size instead (e.g. 256x256). This option makes it easier to apply customized rescaling logic or reduces latency if rescaling to the input image size is not needed for your use case.</li>
 </ul>
 
-<h2> Pose Detection App Preview </h2>
+<h2> Selfie Segmentation App Preview </h2>
 
 Main Screen        |  Segment       
 :-------------------------:|:-------------------------:|
